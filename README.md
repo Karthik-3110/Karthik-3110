@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Karthik Mudaliar 👋
 # 💫 About Me:
 - Building full-stack web applications with React, Node.js, and MongoDB<br>- Passionate about AI, RAG systems, and developer productivity tools<br>- Love turning ideas into real-world projects<br>- Consistently improving my Data Structures & Algorithms skills<br>- Aspiring Software Engineer focused on scalable and impactful products<br>
 
