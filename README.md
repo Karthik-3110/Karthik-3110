@@ -1,4 +1,4 @@
-## Hi there, I'm Karthik Mudaliar 👋
+# Hi there, I'm Karthik Mudaliar 👋
 # 💫 About Me:
 <br>- Building full-stack web applications<br>- Passionate about AI, RAG systems, and developer productivity tools<br>- Love turning ideas into real-world projects<br>- Consistently improving my Data Structures & Algorithms skills<br>- Aspiring Software Engineer focused on scalable and impactful products<br>
 # 💻 Tech Stack:
